@@ -6,7 +6,7 @@ import Formulario from './components/Formulario.vue';
   const estado = reactive({
     numero1: 0,
     numero2: 0,
-    operacao: '',
+    operacao: '+',
     resultado: 0
   })
 
